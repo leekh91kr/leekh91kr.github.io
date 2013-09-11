@@ -1,0 +1,416 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html {
+	background-color:#CCC;
+}
+
+body {
+	width: 100%;
+	margin: 0 auto;
+	background-color:#FFF;
+	min-width: 300px;
+}
+
+img {
+	width: 100%;
+}
+
+.logo {
+	background-image:url(../images/logo.jpg);
+	width: 10%;
+	float: left;
+	margin: 2% 2%;
+}
+	
+ul#connect {
+			white-space:nowrap;
+			width: 50px; 
+}
+			
+#connect li {
+			display:inline;
+			list-style-type:none;
+			opacity: 0.1;
+			
+}
+
+.home {
+	background-image:url(../img/kyoungheelee.jpg);
+	background-repeat:no-repeat;
+	background-size: 100%;
+	padding: 0 0 4% 57&;
+	}
+
+
+.home h1 {
+	padding: 15% 0 5% 57%;
+	color:#878787;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	font-size: 2.4em;
+	}
+	
+.home p {
+	padding: 0 10% 15% 57%;
+	font-size: 1em;
+	font-family:Arial, Helvetica, sans-serif;
+	line-height: 1.5em;
+}
+
+footer {
+	padding: 10% 10% 3% 5%;
+ }
+
+footer ul {
+	float: left;
+	margin-left: 5%;
+}
+
+footer li, footer a {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:1em;
+	text-decoration: none;
+	color:#000;
+	padding: 2% 0;
+	}
+
+footer span {
+	color:#878787;
+	font-size: 1em;	
+}
+
+.clearfix:before,
+.clearfix:after {
+	content: "";
+	display: table;
+}
+
+.clearfix:after {
+	clear: both;
+}
+
+.clearfix {
+	*zoom: 1; /* You will get a CSS validator error on this line */
+}
+
+@media only screen and (min-width: 25em) {
+
+@charset "UTF-8";
+/* CSS Document */
+
+html {
+	background-color:#CCC;
+}
+
+body {
+	width: 100%;
+	margin: 0 auto;
+	background-color:#FFF;
+	min-width: 300px;
+}
+
+img {
+	width: 100%;
+}
+
+.logo {
+	background-image:url(../images/logo.jpg);
+	width: 20%;
+	float: right;
+	margin: 2% 2%;
+}	
+
+
+.home {
+	background-image:url(../img/kyoungheelee.jpg);
+	background-repeat:no-repeat;
+	background-size: 100%;
+	padding: 0 0 4% 57&;
+	}
+
+
+.home h1 {
+	padding: 80% 15% 5% 10%;
+	color:#878787;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	font-size: 2em;
+	}
+	
+.home p {
+	padding: 0 15% 5% 10%;
+	font-size: 0.7em;
+	font-family:Arial, Helvetica, sans-serif;
+	line-height: 1.5em;
+}
+
+footer {
+	padding: 0% 10% 3% 5%;
+ }
+
+footer ul {
+	float: left;
+	margin-left: 5%;
+}
+
+footer li, footer a {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:0.7em;
+	text-decoration: none;
+	color:#000;
+	padding: 2% 0;
+	}
+
+footer span {
+	color:#878787;
+	font-size: 0.7em;	
+}
+
+.clearfix:before,
+.clearfix:after {
+	content: "";
+	display: table;
+}
+
+.clearfix:after {
+	clear: both;
+}
+
+.clearfix {
+	*zoom: 1; /* You will get a CSS validator error on this line */
+}
+}
+
+@media only screen and (min-width: 45em) {
+
+html {
+	background-color:#CCC;
+}
+
+body {
+	width: 100%;
+	margin: 0 auto;
+	background-color:#FFF;
+	min-width: 300px;
+}
+
+img {
+	width: 100%;
+}
+
+.logo {
+	background-image:url(../images/logo.jpg);
+	width: 13%;
+	float: left;
+	margin: 2% 2%;
+}	
+
+
+.home {
+	background-image:url(../img/kyoungheelee.jpg);
+	background-repeat:no-repeat;
+	background-size: 100%;
+	padding: 0 0 4% 57&;
+	}
+
+
+.home h1 {
+	padding: 20% 0 0% 57%;
+	color:#878787;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	font-size: 1.5em;
+	}
+	
+.home p {
+	padding: 0 10% 15% 57%;
+	font-size: 0.7em;
+	font-family:Arial, Helvetica, sans-serif;
+	line-height: 1.5em;
+}
+
+footer {
+	padding: 0% 10% 3% 5%;
+ }
+
+footer ul {
+	float: left;
+	margin-left: 5%;
+}
+
+footer li, footer a {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:0.9em;
+	text-decoration: none;
+	color:#000;
+	padding: 2% 0;
+	}
+
+footer span {
+	color:#878787;
+	font-size: 0.9em;	
+}
+
+.clearfix:before,
+.clearfix:after {
+	content: "";
+	display: table;
+}
+
+.clearfix:after {
+	clear: both;
+}
+
+.clearfix {
+	*zoom: 1; /* You will get a CSS validator error on this line */
+}
+}
+
+@media only screen and (min-width: 95em) {
+
+.home h1 {
+	padding: 15% 0 5% 57%;
+	color:#878787;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	font-size: 3em;
+	}
+	
+.home p {
+	padding: 0 10% 15% 57%;
+	font-size: 1.3em;
+	font-family:Arial, Helvetica, sans-serif;
+	line-height: 1.5em;
+}
+
+footer {
+	padding: 5% 10% 3% 5%;
+ }
+
+footer ul {
+	float: left;
+	margin-left: 5%;
+}
+
+footer li, footer a {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:1em;
+	text-decoration: none;
+	color:#000;
+	padding: 2% 0;
+	}
+
+footer span {
+	color:#878787;
+	font-size: 1em;	
+}
+
+.clearfix:before,
+.clearfix:after {
+	content: "";
+	display: table;
+}
+
+.clearfix:after {
+	clear: both;
+}
+
+.clearfix {
+	*zoom: 1; /* You will get a CSS validator error on this line */
+}
+}
+
+
+@media only screen and (min-width: 125em) {
+
+body {
+	width: 100%;
+	margin: 0 auto;
+	background-color:#FFF;
+	min-width: 768px;
+}
+
+img {
+	width: 100%;
+}
+
+.logo {
+	background-image:url(../images/logo.jpg);
+	width: 10%;
+	float: left;
+	margin: 2% 2%;
+}
+	
+ul#connect {
+			white-space:nowrap;
+			width: 50px; 
+}
+			
+#connect li {
+			display:inline;
+			list-style-type:none;
+			opacity: 0.1;
+			
+}
+
+.home {
+	background-image:url(../img/kyoungheelee.jpg);
+	background-repeat:no-repeat;
+	background-size: 100%;
+	padding: 0 0 4% 57&;
+	}
+
+
+.home h1 {
+	padding: 15% 0 5% 57%;
+	color:#878787;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	font-size: 3em;
+	}
+	
+.home p {
+	padding: 0 10% 15% 57%;
+	font-size: 1em;
+	font-family:Arial, Helvetica, sans-serif;
+	line-height: 1.5em;
+}
+
+footer {
+	padding: 0% 10% 3% 5%;
+ }
+
+footer ul {
+	float: left;
+	margin-left: 5%;
+}
+
+footer li, footer a {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:1em;
+	text-decoration: none;
+	color:#000;
+	padding: 2% 0;
+	}
+
+footer span {
+	color:#878787;
+	font-size: 2em;	
+}
+
+.clearfix:before,
+.clearfix:after {
+	content: "";
+	display: table;
+}
+
+.clearfix:after {
+	clear: both;
+}
+
+.clearfix {
+	*zoom: 1; /* You will get a CSS validator error on this line */
+}
+}
+
